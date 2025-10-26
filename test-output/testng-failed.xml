@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="tets.Bootstramp$BootStrampDropDown">
+      <class name="tets.GoogleComtest">
         <methods>
-          <include name="setup"/>
           <include name="test"/>
+          <include name="setup"/>
         </methods>
-      </class> <!-- tets.Bootstramp$BootStrampDropDown -->
+      </class> <!-- tets.GoogleComtest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
