@@ -3,6 +3,7 @@ package tets;
 
 import java.time.Duration;
 
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
@@ -13,7 +14,6 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import jdk.javadoc.internal.doclets.formats.html.markup.Text;
 
 public class towPlugs {
 WebDriver driver;

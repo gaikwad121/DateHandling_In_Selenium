@@ -1,6 +1,7 @@
 package tets;
 
 import java.time.Duration;
+
 import java.util.List;
 
 import org.openqa.selenium.By;
@@ -13,7 +14,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-import dev.failsafe.internal.util.Durations;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class GoogleComtest {

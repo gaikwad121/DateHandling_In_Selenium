@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-10-26T23:37:17 IST" name="Default suite" finished-at="2025-10-26T23:37:29 IST" duration-ms="11975">
+  <suite started-at="2025-11-01T12:54:17 IST" name="Default suite" finished-at="2025-11-01T12:54:56 IST" duration-ms="38179">
     <groups>
     </groups>
-    <test started-at="2025-10-26T23:37:17 IST" name="Default test" finished-at="2025-10-26T23:37:29 IST" duration-ms="11975">
-      <class name="tets.CheckboxSelection">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tets.CheckboxSelection@302552ec]" started-at="2025-10-26T23:37:17 IST" name="setUp" finished-at="2025-10-26T23:37:21 IST" duration-ms="3159" status="PASS">
+    <test started-at="2025-11-01T12:54:17 IST" name="Default test" finished-at="2025-11-01T12:54:56 IST" duration-ms="38179">
+      <class name="tets.Bootstramp$BootStrampDropDown">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tets.Bootstramp$BootStrampDropDown@3eb25e1a]" started-at="2025-11-01T12:54:17 IST" name="setup" finished-at="2025-11-01T12:54:44 IST" duration-ms="26217" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="test()[pri:0, instance:tets.CheckboxSelection@302552ec]" started-at="2025-10-26T23:37:21 IST" name="test" finished-at="2025-10-26T23:37:29 IST" duration-ms="8766" status="PASS">
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:tets.Bootstramp$BootStrampDropDown@3eb25e1a]" started-at="2025-11-01T12:54:44 IST" name="test" finished-at="2025-11-01T12:54:55 IST" duration-ms="11638" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tets.CheckboxSelection@302552ec]" started-at="2025-10-26T23:37:29 IST" name="tearDown" finished-at="2025-10-26T23:37:29 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tets.Bootstramp$BootStrampDropDown@3eb25e1a]" started-at="2025-11-01T12:54:55 IST" name="tearDown" finished-at="2025-11-01T12:54:56 IST" duration-ms="255" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- tets.CheckboxSelection -->
+      </class> <!-- tets.Bootstramp$BootStrampDropDown -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
